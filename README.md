@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Crystal</h1>
 <h3 align="center">A lifelong learner from the US living in Germany</h3>
 
-- 🔭 I’m currently working on [Fireball App with Chingu](https://github.com/chingu-voyages/v45-tier2-team-19/tree/main)
+- 🔭 I’m currently working on [Frontend Mentor Challenges](https://github.com/crwainstock/fe-mentor-stats-preview)
+  
+- 🥳 I just finished working on [Fireball App with Chingu](https://github.com/chingu-voyages/v45-tier2-team-19/tree/main)
 
-- 🌱 I’m currently learning **German, UX writing**
+- 🌱 I’m currently learning **German, UX writing, CSS (brushing up on vanilla CSS)**
 
 - 📝 I regularly write articles on [https://crwainstock.com/journal/](https://crwainstock.com/journal/)
 
