@@ -9,6 +9,8 @@
 
 - 📝 I regularly write articles on [https://crwainstock.com/journal/](https://crwainstock.com/journal/)
 
+- 📖 I am currently reading [Never Let Me Go by Kazuo Ishiguro](https://www.goodreads.com/book/show/6334.Never_Let_Me_Go), [File Not Found by Monica Chin, The Verge](https://www.theverge.com/22684730/students-file-folder-directory-structure-education-gen-z)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/crwainstock" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="crwainstock" height="30" width="40" /></a>
