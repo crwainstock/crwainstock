@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [https://crwainstock.com/journal/](https://crwainstock.com/journal/)
 
-- 📖 I am currently reading [Never Let Me Go by Kazuo Ishiguro](https://www.goodreads.com/book/show/6334.Never_Let_Me_Go), [File Not Found by Monica Chin, The Verge](https://www.theverge.com/22684730/students-file-folder-directory-structure-education-gen-z)
+- 📖 Recent reads: [Never Let Me Go by Kazuo Ishiguro](https://www.goodreads.com/book/show/6334.Never_Let_Me_Go), [File Not Found by Monica Chin, The Verge](https://www.theverge.com/22684730/students-file-folder-directory-structure-education-gen-z)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
