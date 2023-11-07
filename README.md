@@ -5,7 +5,7 @@
   
 - 🥳 I just finished working on [Fireball App with Chingu](https://github.com/chingu-voyages/v45-tier2-team-19/tree/main)
 
-- 🌱 I’m currently learning **German, UX writing, CSS (brushing up on vanilla CSS)**
+- 🌱 I’m currently learning **German, UX writing, brushing up on vanilla CSS and JS, dabbling in Kotlin**
 
 - 📝 I regularly write articles on [https://crwainstock.com/journal/](https://crwainstock.com/journal/)
 
