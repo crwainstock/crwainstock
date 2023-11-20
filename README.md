@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on [Frontend Mentor Challenges](https://github.com/crwainstock/fe-mentor-stats-preview) & [My Library App rework](https://github.com/crwainstock/my-library-app)
   
-- 🥳 I just finished working on [Fireball App with Chingu](https://github.com/chingu-voyages/v45-tier2-team-19/tree/main)
+- 🥳 I just finished working on [Fireball App with Chingu](https://github.com/chingu-voyages/v45-tier2-team-19/tree/main) & [my first Android app!](https://github.com/crwainstock/PlacesFamilyApp)
 
-- 🌱 I’m currently learning **German, UX writing, brushing up on vanilla CSS and JS, dabbling in Kotlin**
+- 🌱 I’m currently learning **German, UX writing, brushing up on vanilla CSS and JS, dabbling in Kotlin/Android development**
 
 - 📝 I regularly write articles on [https://crwainstock.com/journal/](https://crwainstock.com/journal/)
 
