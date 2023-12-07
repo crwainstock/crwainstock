@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Crystal</h1>
 <h3 align="center">A lifelong learner from the US living in Germany</h3>
 
-- 🔭 I’m currently working on [Frontend Mentor Challenges](https://github.com/crwainstock/fe-mentor-stats-preview) & [My Library App rework](https://github.com/crwainstock/my-library-app)
+- 🔭 I’m currently working on [Advent of Code](https://adventofcode.com/2023) -- [my AoC repo](https://github.com/crwainstock/aoc2023)
   
 - 🥳 I just finished working on [Fireball App with Chingu](https://github.com/chingu-voyages/v45-tier2-team-19/tree/main) & [my first Android app!](https://github.com/crwainstock/PlacesFamilyApp)
 
